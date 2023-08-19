@@ -17,7 +17,7 @@
 - Web scrapping using Python to obtain information about production codes
 - Data analysis using R software
 - Report automatization using R and Data Analysis
-- Web page presentation
+- 2022 Campaign Web page presentation ([Website](https://rcanaridev.github.io/Semana29Prohass2022/)) 
 
 ## Projects
 * Web scrapping to download file and do analysis research
