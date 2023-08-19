@@ -1,8 +1,8 @@
 # Data science
 
 ## Education
-- Bachelor in Statistics | Universidad Nacional Mayor de San Marcos (_December 2021_)
-- Master in Data Science | Universidad Ricardo Palma (_December 2024_)
+- B.S., Statistics | Universidad Nacional Mayor de San Marcos (_December 2021_)
+- M.S., Data Science | Universidad Ricardo Palma (_December 2024_)
 
 ## Working Experience
 **Statistian @Asociación de Exportadores y Productores de Palta Hass del Perú (_January 2021 - September 2023_)**
