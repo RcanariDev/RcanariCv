@@ -10,7 +10,7 @@
 - Data management using SQL Server
 - Management of Customer Relationship Management CRM - Microsoft
 - Web Scrapping from CRM to download file and do analysis
-- Data Visualization using R shiny
+- Data Visualization using R shiny ([Calidad](https://repositjose.shinyapps.io/Semana29/))
 
 **Statistian @Asociación de Exportadores y Productores de Palta Hass del Perú (_January 2021 - September 2022_)**
 - Data visualization using R shiny, Power BI, Google Data Studio ([Campaña 2022](https://repositjose.shinyapps.io/Semana29/))
