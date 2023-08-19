@@ -16,7 +16,7 @@
 - Data visualization using R shiny, Power BI, Google Data Studio ([Campaña 2022](https://repositjose.shinyapps.io/Semana29/))
 - Web scrapping using Python to obtain information about production codes
 - Data analysis using R software
-- Reports automatization using R, Latex ([Spanish](https://github.com/RcanariDev/ProhassPresentations2022/blob/main/pdf/3Presentacion2022Comprimido11.pdf))
+- Reports automatization using R, Latex ([English](https://github.com/RcanariDev/ProhassPresentations2022/blob/main/pdf/3Presentacion2022Comprimido11.pdf), [Spanish](https://github.com/RcanariDev/ProhassPresentations2022/blob/main/pdf/Presentacion2022Comprimido11.pdf))
 - 2022 Campaign Web page presentation ([Website](https://rcanaridev.github.io/Semana29Prohass2022/)) 
 
 ## Projects
