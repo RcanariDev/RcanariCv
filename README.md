@@ -13,7 +13,7 @@
 - Data Visualization using R shiny
 
 **Statistian @Asociación de Exportadores y Productores de Palta Hass del Perú (_January 2021 - September 2022_)**
-- Data visualization using R shiny, Power BI, Google Data Studio
+- Data visualization using R shiny, Power BI, Google Data Studio ([https://repositjose.shinyapps.io/Semana29/](Campaña 2022))
 - Web scrapping using Python to obtain information about production codes
 - Data analysis using R software
 - Report automatization using R and Data Analysis
