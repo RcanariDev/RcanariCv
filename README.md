@@ -1,8 +1,8 @@
 # Data science
 
 ## Education
-- M.S., Data Science | Universidad Ricardo Palma (_December 2024_)
-- B.S., Statistics | Universidad Nacional Mayor de San Marcos (_December 2021_)
+- M.S., Data Science | Universidad Ricardo Palma (_2024_)
+- B.S., Statistics | Universidad Nacional Mayor de San Marcos (_2021_)
 
 ## Working Experience
 **Productivity & Big Data Analyst @Universidad Privada del Norte (_January 2023 - July 2023_)**
