@@ -23,4 +23,5 @@
 * Web scrapping to download file and do analysis research
 * Web scrapping to analysis prices and discounts
 * Web form using shiny
+* Claro dashboard track customer ([Modelo 1](https://repositjose.shinyapps.io/PruebaClaro1/))
 
