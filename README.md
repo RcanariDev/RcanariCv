@@ -26,5 +26,5 @@
 * Claro dashboard track customer ([Modelo 1](https://repositjose.shinyapps.io/PruebaClaro1/))
 
 ## 🔗 Links
-[[linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
