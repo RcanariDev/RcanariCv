@@ -6,7 +6,7 @@
 
 ## Working Experience
 **Productivity & Big Data Analyst @Universidad Privada del Norte (_January 2023 - July 2023_)**
-- Report automatization using R, Python y SQL
+- Report automatization using R, Python y SQL ([Modelo 1](https://github.com/RcanariDev/RegistrationReport)) ([Modelo 2](https://github.com/RcanariDev/LeadsReport))
 - Data management using SQL Server
 - Management of Customer Relationship Management CRM - Microsoft
 - Web Scrapping from CRM to download file and do analysis
