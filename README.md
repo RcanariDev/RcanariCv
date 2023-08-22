@@ -21,7 +21,7 @@
 
 ## Projects
 * Web scrapping to download file and do analysis research
-* Web scrapping to analysis prices and discounts
+* Web scrapping to analysis prices and discounts ([Avance 1](https://github.com/RcanariDev/DataPricesCollection))
 * Web form using shiny
 * Claro dashboard track customer ([Modelo 1](https://repositjose.shinyapps.io/PruebaClaro1/))
 
