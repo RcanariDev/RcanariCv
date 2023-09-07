@@ -24,6 +24,7 @@
 * Web scrapping to analysis prices and discounts ([Avance 1](https://github.com/RcanariDev/DataPricesCollection))
 * Web form using shiny ([Modelo 1](https://repositjose.shinyapps.io/Prueba22/))
 * Claro dashboard track customer ([Modelo 1](https://repositjose.shinyapps.io/PruebaClaro1/))
+* Glucosa monitoring ([Modelo 1](https://rossydev.shinyapps.io/ModeloGlu11/))
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuel-cañari-palante-015504251)
